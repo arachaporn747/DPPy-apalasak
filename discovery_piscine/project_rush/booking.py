@@ -161,7 +161,6 @@ def cancel_booking(bookings):
 
 
 def main():
-    print("\033[1;33mYELLOW BOLD TEST\033[0m")
     while True:
         print("\n==============================")
         print(" LIBRARY TABLE BOOKING SYSTEM")
